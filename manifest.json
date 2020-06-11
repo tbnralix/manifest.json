@@ -1,0 +1,17 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Test Custom Blocks",
+        "name": "Custom Blocks Template RP",
+        "uuid": "2f9874c2-76d0-4952-91e2-e63b3ef8ec43",
+        "version": [1, 0, 0]
+    },
+    "modules": [
+        {
+            "description":  "Test Custom Blocks",
+            "type": "resources",
+            "uuid": "e8e9b87d-78ea-4e7e-8d02-95476ed3b8e1",
+            "version": [1, 0, 0]
+        }
+    ]
+}
