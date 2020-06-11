@@ -1,0 +1,23 @@
+
+{
+	"format_version": {},
+	"minecraft:block": {
+		"description": {
+			"identifier": "mc:block",
+			"is_experimental": false,
+			"register_to_creative_menu": true
+		},
+		"components": {
+			"minecraft:destroy_time": {
+				"value": 5
+			},
+			"minecraft:flammable": {
+				"burn_odds": 0.1,
+				"flame_odds": 0.1
+			},
+			"minecraft:explosion_resistance": {
+				"value": 0.9
+			}
+		}
+	}
+}
